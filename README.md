@@ -1,2 +1,2 @@
 # cursos-dio
-projetos dos cursos digital innovation one
+cursos digital innovation one
