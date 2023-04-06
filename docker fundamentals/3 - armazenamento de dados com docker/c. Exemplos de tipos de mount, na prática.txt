@@ -1,0 +1,17 @@
+****bind mount *****
+
+docker run -dti --mount type=bind,src=/opt/teste,dst=/teste debian
+
+docker run -dti --mount type=bind,src=/opt/teste,dst=/teste,ro debian
+
+***volumes****
+
+docker volume create teste
+docker volume ls
+
+	/var/lib/docker/volumes/teste/_data
+	
+docker run -dti --mount type=volume,src=teste,dst=teste debian
+
+docker volume rm teste
+

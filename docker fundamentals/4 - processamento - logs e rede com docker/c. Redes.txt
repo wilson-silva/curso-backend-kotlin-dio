@@ -1,0 +1,3 @@
+apt-get install iputils-ping
+docker network create minha-rede
+docker run -dit --name Ubuntu-B --network minha-rede  ubuntu

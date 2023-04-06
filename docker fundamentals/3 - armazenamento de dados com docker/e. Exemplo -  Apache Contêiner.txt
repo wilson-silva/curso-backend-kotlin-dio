@@ -1,0 +1,26 @@
+docker run  --name apache-A -d -p 80:80 --volume=/data/apache-A:/usr/local/apache2/htdocs/ httpd
+
+docker run  --name php-A -d -p 8080:80 --volume=/data/php-A:/var/www/html php:7.4-apache
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Exemplo Apache</title>
+</head>
+<body>
+<h1> OK !! Apache funcionando!!!!! </h1>
+</body>
+</html>
+
+
+
+
+<?php
+phpinfo();
+?>
+
+

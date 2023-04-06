@@ -1,0 +1,1 @@
+docker cp Ubuntu-A:/destino/Meuzip.zip  Zipcopia.zip

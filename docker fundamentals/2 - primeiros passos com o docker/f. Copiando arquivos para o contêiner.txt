@@ -1,0 +1,7 @@
+docker exec -ti Ubuntu-A /bin/bash
+docker exec Ubuntu-A mkdir /destino/
+docker exec Ubuntu-A mkdir ls -l /
+nano Arquivo.txt
+docker cp arquivo.txt Ubuntu-A:/aula/
+
+

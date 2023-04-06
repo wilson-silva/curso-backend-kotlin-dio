@@ -1,0 +1,10 @@
+# docker stats php-A
+
+#docker update php-A -m 128M --cpus 0.2
+
+# docker run --name ubuntu-C -dti -m 128M --cpus 0.2 ubuntu
+
+apt update && apt install stress
+stress --cpu 1 --vm-bytes 50m --vm 1 --vm-bytes 50m
+
+
