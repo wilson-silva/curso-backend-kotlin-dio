@@ -1,0 +1,21 @@
+docker run -d -p 5000:5000 --restart=always --name registry registry:2
+
+docker logout
+
+docker image tag [id] localhost:5000/meu-apache:1.0
+
+
+curl localhost:5000/v2/_catalog
+
+
+docker push  localhost:5000/my-go-app:1.0
+
+
+nano /etc/docker/daemon.json 
+
+	{ "insecure-registries":["10.0.0.189:5000"] }
+	
+
+systemctl restart docker
+
+docker push  localhost:5000/my-go-app:1.0

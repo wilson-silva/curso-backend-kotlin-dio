@@ -1,0 +1,25 @@
+# docker run -dti --name ubuntu-python ubuntu
+# docker exec -ti ubuntu-python bash
+
+
+# apt install python3 nano
+2# apt clean
+
+
+	nome = input("Qual é o seu nome? ")
+	print (nome)
+
+
+
+nano dockerfile
+
+FROM ubuntu
+
+RUN apt update && apt install -y python3 && apt clean
+
+COPY app.py /opt/app.py
+
+CMD python3 /opt/app.py
+
+# docker build . -t python-ubuntu
+dc
