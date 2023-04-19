@@ -15,3 +15,17 @@ $src/main/kotlin/introducao/Funcao.kt,4\a\4acf55b317af923e73a2d31cba93218611ffd
 .src/main/kotlin/introducao/ClassesGenericas.kt,d\4\d404359480e1aa5f3b1e8e16b53f8921f2081cb5
 Y
 )src/main/kotlin/introducao/NullSafety2.kt,5\a\5ac50d6fcc4f2f54a2940a812ce09f9e28809f52
+W
+'src/main/kotlin/controleDeFluxo/When.kt,7\9\7923cbebe74376267f1c97cddc5140bab74a1dd1
+a
+1src/main/kotlin/controleDeFluxo/WhenExpression.kt,b\3\b3b8e3e1b6608e9026d27bd926eee785582cf1da
+`
+0src/main/kotlin/controleDeFluxo/While_DoWhile.kt,a\a\aa8301fe50b52327864cc39d3a15c4ff3f1b3ad7
+V
+&src/main/kotlin/controleDeFluxo/For.kt,2\b\2b5cbcd21647a061537a636f4d3c4cd20149be6d
+\
+,src/main/kotlin/controleDeFluxo/Iterators.kt,1\8\184260dd15a70c32269ce31e95c24c7eafcfeb55
+e
+5src/main/kotlin/controleDeFluxo/RangersLoopsComInt.kt,f\6\f6fc1c9cee11390ca1dc4b9f94591b63729964c1
+j
+:src/main/kotlin/controleDeFluxo/RangersIfsELoopsComChar.kt,7\2\725d5058c0b5b205612131074213228359a747c2
