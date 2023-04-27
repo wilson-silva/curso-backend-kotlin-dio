@@ -5,6 +5,7 @@
 3. Estrutura de Controle de Fluxo e Coleções em Kotlin
 4. Orientação a Objetos e Tipos na Prática com Kotlin
 5. O poder das Funções em Kotlin
+6. Tratamento de Exceções em Kotlin
 
 
 
