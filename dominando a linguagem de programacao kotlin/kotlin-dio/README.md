@@ -4,6 +4,7 @@
 2. Introdução prática à linguagem de programação Kotlin
 3. Estrutura de Controle de Fluxo e Coleções em Kotlin
 4. Orientação a Objetos e Tipos na Prática com Kotlin
+5. O poder das Funções em Kotlin
 
 
 
