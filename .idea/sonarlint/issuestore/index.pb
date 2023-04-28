@@ -15,8 +15,6 @@ idominando a linguagem de programacao kotlin/kotlin-dio/src/main/kotlin/D_funcoe
 hdominando a linguagem de programacao kotlin/kotlin-dio/src/main/kotlin/D_funcoes/funcoesDeEscopo/Also.kt,e\6\e6d0aace0ff0b27c17771129741a86af1481d0ba
  
 pdominando a linguagem de programacao kotlin/kotlin-dio/src/main/kotlin/D_funcoes/tipodeFuncoes/InfixFunctions.kt,f\d\fd25767e154b89179f5f3717addd38b9d17381e8
-±
-€dominando a linguagem de programacao kotlin/kotlin-dio/src/main/kotlin/D_funcoes/tipodeFuncoes/HigherOrderFunctionsParameters.kt,4\6\468b504f49cd9f7a6d28c4de0dea4bf8c2d2b26e
 ¯
 dominando a linguagem de programacao kotlin/kotlin-dio/src/main/kotlin/D_funcoes/tipodeFuncoes/HigherOrderFunctionsReturning.kt,5\b\5b904226bbaaaf0c3598cccf94a9008dc854c936
 ¡
