@@ -20,10 +20,14 @@ SELECT nome, nascimento FROM pessoa;
  
  -- Inserindo coluna na tabela
  ALTER TABLE pessoa ADD genero VARCHAR(20);
+ UPDATE pessoa SET genero='F' WHERE id=2;
+ UPDATE pessoa SET genero='M' WHERE id=3;
+ UPDATE pessoa SET genero='F' WHERE id=4;
+ UPDATE pessoa SET genero='M' WHERE id=5;
  SELECT * FROM pessoa;
- INSERT INTO 
- -- agrupamento de dados
  
+-- agrupamento de dados
+ SELECT count(genero) AS 'QUANTIDADE' , GENERO FROM pessoa GROUP BY genero;
  
  
 
