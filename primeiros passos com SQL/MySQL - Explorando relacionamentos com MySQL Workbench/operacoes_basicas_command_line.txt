@@ -1,0 +1,21 @@
+* Acessar o mysql pelo terminal
+
+-> mysql -u root -p
+  Caso de erro deve verificar se o mysql está na variável de ambiente
+  
+  - Copiar o path do mysql até o bin
+  Ex: C:\Program Files\MySQL\MySQL Server 8.0\bin
+  
+  - Abrir a variáveis de ambiente (na pesquisa do windowns só colocar 
+  variáveis)
+      Variáveis de ambiente -> Path -> Novo -> colar o path -> ok -> ok
+
+-> show databases; - visualizar os bancos existentes
+-> use nome_banco; - Escolha de qual banco irá trabalhar
+-> show tables; - visualizar as tabelas 
+-> Os Comando Create, Update, Insert e etc seguem os mesmo.
+
+-> Ao utilizar o terminal alguns erros são evitados como tentar criar uma
+sem a promary key.
+-> Ao pressionar seta para cima os comando dados anteriormente aparecerão,
+evitando assim ter que digitar alguns comando do zero.
