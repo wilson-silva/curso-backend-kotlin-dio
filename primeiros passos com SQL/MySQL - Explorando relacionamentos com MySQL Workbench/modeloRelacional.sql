@@ -113,7 +113,7 @@ update playlist set fk_author = 4 where id_playlist = 2;
 update playlist set fk_author = 4 where fk_author is null;
 
 -- consulta
-select playlist.id_playlist, playlist.title_pl, author.name as 'criado por' from playlist 
+select playlist.id_playlist, playlist.title_pl, author.name from playlist 
 join author on playlist.fk_author = author.id_author;
 
 
